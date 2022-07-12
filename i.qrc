@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>man/1.png</file>
+        <file>man/2.png</file>
+        <file>man/3.png</file>
+        <file>man/4.png</file>
+        <file>man/5.png</file>
+        <file>man/33.jpg</file>
+        <file>man/s.gif</file>
+        <file>man/bc.png</file>
+        <file>man/jc.png</file>
+        <file>man/qc.png</file>
+        <file>man/xhx.png</file>
+        <file>man/xy.png</file>
+        <file>man/xzys.png</file>
+        <file>man/lj.png</file>
+    </qresource>
+</RCC>
